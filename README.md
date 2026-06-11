@@ -19,7 +19,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kinara2020&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-trophies.vercel.app/?username=Kinara2020&theme=onedark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

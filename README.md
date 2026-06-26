@@ -21,6 +21,7 @@
 ## 🏆 GitHub Trophies
 ![trophy](https://github-trophies.vercel.app/?username=Kinara2020&theme=onedark)
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
